@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"player","characterIndex":0,"characterName":"player","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"player","traits":[],"initialLevel":1,"maxLevel":99,"name":"ผู้กล้า???","nickname":"อัลเบโด้","note":"","profile":""}
+{"id":1,"battlerName":"player","characterIndex":0,"characterName":"player","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"player","traits":[],"initialLevel":1,"maxLevel":99,"name":"ผู้กล้า???","nickname":"อัลเบโด้","note":"","profile":""}
 ]
