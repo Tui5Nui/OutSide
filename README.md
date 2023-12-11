@@ -3,4 +3,4 @@
 
 
 outside
-https://tui5nui.github.io/OutSide/www/
+https://tui5nui.github.io/OutSide/Game/www/
