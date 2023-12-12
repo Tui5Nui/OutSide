@@ -23,8 +23,8 @@ null,
 {"id":21,"expanded":false,"name":"หมู่บ้านประมง","order":25,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1100.5714285714284},
 {"id":22,"expanded":false,"name":"ชายหาด","order":27,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1100.5714285714284},
 {"id":23,"expanded":false,"name":"บ้านหัวหน้าหมู่บ้าน","order":26,"parentId":21,"scrollX":1404,"scrollY":819.4285714285713},
-null,
-{"id":25,"expanded":true,"name":"ปราสาท","order":28,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1580.5714285714284},
+{"id":24,"expanded":false,"name":"เลือกตัวละคร","order":1,"parentId":0,"scrollX":1404,"scrollY":819.4285714285713},
+{"id":25,"expanded":false,"name":"ปราสาท","order":28,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1580.5714285714284},
 {"id":26,"expanded":false,"name":"ปราสาท ชั้น 1","order":29,"parentId":25,"scrollX":1390.2857142857142,"scrollY":1100.5714285714284},
 {"id":27,"expanded":false,"name":"ปราสาท ชั้น 2","order":30,"parentId":25,"scrollX":1136,"scrollY":800},
 {"id":28,"expanded":true,"name":"ปราสาท ชั้น 3","order":31,"parentId":25,"scrollX":1404,"scrollY":819.4285714285713},
@@ -43,6 +43,5 @@ null,
 {"id":41,"expanded":false,"name":"ถังขยะ","order":33,"parentId":29,"scrollX":1404,"scrollY":819.4285714285713},
 {"id":42,"expanded":false,"name":"ดาบในตำนาน","order":16,"parentId":12,"scrollX":1404,"scrollY":819.4285714285713},
 {"id":43,"expanded":false,"name":"ห้องเรียน","order":12,"parentId":3,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":44,"expanded":false,"name":"วาปกลับ","order":13,"parentId":3,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":45,"expanded":false,"name":"เลือกตัวละคร","order":1,"parentId":0,"scrollX":1404,"scrollY":819.4285714285713}
+{"id":44,"expanded":false,"name":"วาปกลับ","order":13,"parentId":3,"scrollX":1404,"scrollY":819.4285714285713}
 ]
