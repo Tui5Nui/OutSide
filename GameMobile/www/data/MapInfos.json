@@ -43,5 +43,5 @@ null,
 {"id":41,"expanded":false,"name":"ถังขยะ","order":33,"parentId":29,"scrollX":1404,"scrollY":819.4285714285713},
 {"id":42,"expanded":false,"name":"ดาบในตำนาน","order":16,"parentId":12,"scrollX":1404,"scrollY":819.4285714285713},
 {"id":43,"expanded":false,"name":"ห้องเรียน","order":12,"parentId":3,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":44,"expanded":false,"name":"วาปกลับ","order":13,"parentId":3,"scrollX":832,"scrollY":640}
+{"id":44,"expanded":false,"name":"วาปกลับ","order":13,"parentId":3,"scrollX":1404,"scrollY":819.4285714285713}
 ]
